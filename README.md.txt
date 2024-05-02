@@ -1,0 +1,1 @@
+Tải driver JDBC (SQLJDBC) cho SQL Server: microsoft.com/en-us/download/details.aspx?id=11774
